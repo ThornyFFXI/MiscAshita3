@@ -1,0 +1,105 @@
+<entitydata>
+	<entry type="adoulincrystal" name="???" zone="261" index="593" posx="-238.000000" posy="0.000000" posz="-402.000000" />
+	<entry type="adoulincrystal" name="???" zone="268" index="415" posx="340.058014" posy="9.300000" posz="381.410004" />
+	<entry type="adoulincrystal" name="???" zone="268" index="416" posx="379.967010" posy="-20.700001" posz="418.615997" />
+	<entry type="adoulincrystal" name="???" zone="276" index="545" posx="-140.000000" posy="-510.600006" posz="100.000000" />
+	<entry type="adoulincrystal" name="???" zone="265" index="844" posx="-20.000000" posy="-47.000000" posz="525.000000" menuid="8801" />
+	<entry type="adoulincrystal" name="???" zone="269" index="397" posx="-501.093994" posy="39.299999" posz="300.058990" menuid="8800" />
+	<entry type="adoulincrystal" name="???" zone="269" index="398" posx="-219.332993" posy="59.299999" posz="540.931030" menuid="8801" />
+	<entry type="adoulincrystal" name="???" zone="276" index="547" posx="-620.000000" posy="-520.599976" posz="420.000000" />
+	<entry type="adoulincrystal" name="???" zone="262" index="625" posx="138.000000" posy="-2.465000" posz="-382.000000" />
+	<entry type="adoulincrystal" name="???" zone="272" index="425" posx="298.000000" posy="-20.865999" posz="-177.250000" />
+	<entry type="adoulincrystal" name="???" zone="272" index="426" posx="256.250000" posy="-0.150000" posz="-540.500000" />
+	<entry type="adoulincrystal" name="???" zone="276" index="546" posx="-500.000000" posy="-530.599976" posz="-380.000000" />
+	<entry type="adoulincrystal" name="???" zone="266" index="503" posx="-159.649994" posy="-20.000000" posz="-203.399994" />
+	<entry type="adoulincrystal" name="???" zone="273" index="478" posx="-258.299988" posy="29.811001" posz="-218.600006" />
+	<entry type="adoulincrystal" name="???" zone="273" index="479" posx="-298.399994" posy="49.880001" posz="-458.299988" />
+	<entry type="adoulincrystal" name="???" zone="276" index="549" posx="-900.000000" posy="-480.600006" posz="-20.000000" />
+	<entry type="adoulincrystal" name="???" zone="263" index="649" posx="160.000000" posy="0.000000" posz="-360.000000" />
+	<entry type="adoulincrystal" name="???" zone="270" index="844" posx="-501.100006" posy="29.209999" posz="-579.299988" />
+	<entry type="adoulincrystal" name="???" zone="270" index="845" posx="-459.649994" posy="30.000000" posz="-300.149994" />
+	<entry type="adoulincrystal" name="???" zone="276" index="548" posx="820.000000" posy="89.400002" posz="60.000000" />
+	<entry type="castoffpoint" name="Castoff Point" zone="265" index="763" posx="-462.346985" posy="-46.000000" posz="257.484009" menuid="18" landx="3286354265" landy="3258957169" landz="1132868666" landh="57089"/>
+	<entry type="castoffpoint" name="Castoff Point" zone="265" index="764" posx="-452.000000" posy="-46.000000" posz="263.458008" menuid="18" landx="3286817309" landy="3258943013" landz="1132401788" landh="24321"/>
+	<entry type="castoffpoint" name="Castoff Point" zone="260" index="553" posx="377.000000" posy="4.399988" posz="-9.800000" menuid="16" landx="1137919624" landy="1033342288" landz="3246416462" landh="4097"/>
+	<entry type="castoffpoint" name="Castoff Point" zone="260" index="554" posx="419.316010" posy="1.744599" posz="-14.522000" menuid="16" landx="1136177742" landy="1082130432" landz="3241304654" landh="29185"/>
+	<entry type="castoffpoint" name="Castoff Point" zone="270" index="782" posx="190.000000" posy="11.000000" posz="222.000000" menuid="11" landx="1126455313" landy="1093089100" landz="1130039674" landh="33537"/>
+	<entry type="castoffpoint" name="Castoff Point" zone="270" index="783" posx="169.000000" posy="11.000000" posz="222.000000" menuid="11" landx="1128398849" landy="1093071275" landz="1130233857" landh="1"/>
+	<entry type="castoffpoint" name="Castoff Point" zone="268" index="391" posx="17.000000" posy="1.500000" posz="-440.000000" menuid="12" landx="1107820544" landy="1065705538" landz="3285975041" landh="1"/>
+	<entry type="castoffpoint" name="Castoff Point" zone="268" index="390" posx="32.000000" posy="1.500000" posz="-440.000000" menuid="12" landx="1096810497" landy="1066577953" landz="3285975041" landh="32513"/>
+	<entry type="castoffpoint" name="Castoff Point" zone="262" index="561" posx="-220.000000" posy="0.800000" posz="225.000000" menuid="18" landx="3269197825" landy="3194247709" landz="1124859904" landh="32513"/>
+	<entry type="castoffpoint" name="Castoff Point" zone="262" index="562" posx="-105.000000" posy="0.800000" posz="140.000000" menuid="18" landx="3240099840" landy="3196260975" landz="1114636289" landh="1"/>
+	<entry type="upstream" name="Castoff Point" zone="262" index="562" posx="-105.000000" posy="0.800000" posz="140.000000" menuid="18" landx="3277586433" landy="3196227421" landz="1130758145" landh="48897" />
+	<entry type="castoffpoint" name="Castoff Point" zone="262" index="563" posx="-14.000000" posy="0.800000" posz="60.000000" menuid="18" landx="1101004800" landy="3194314818" landz="3263954944" landh="16129"/>
+	<entry type="upstream" name="Castoff Point" zone="262" index="563" posx="-14.000000" posy="0.800000" posz="60.000000" menuid="18" landx="3269197825" landy="3194247709" landz="1124859904" landh="32513" />
+	<entry type="castoffpoint" name="Castoff Point" zone="262" index="564" posx="20.000000" posy="0.800000" posz="-65.000000" menuid="18" landx="1130102785" landy="3196227421" landz="1125515264" landh="48897"/>
+	<entry type="upstream" name="Castoff Point" zone="262" index="564" posx="20.000000" posy="0.800000" posz="-65.000000" menuid="18" landx="3240099840" landy="3196260975" landz="1114636289" landh="1" />
+	<entry type="castoffpoint" name="Castoff Point" zone="262" index="565" posx="220.000000" posy="0.800000" posz="146.000000" menuid="18" landx="1136525313" landy="3194180601" landz="3272998912" landh="16129"/>
+	<entry type="upstream" name="Castoff Point" zone="262" index="565" posx="220.000000" posy="0.800000" posz="146.000000" menuid="18" landx="1101004800" landy="3194314818" landz="3263954944" landh="16129" />
+	<entry type="castoffpoint" name="Castoff Point" zone="262" index="566" posx="380.000000" posy="0.800000" posz="-145.000000" menuid="18" landx="1130102785" landy="3196227421" landz="1125515264" landh="48897"/>
+	<entry type="upstream" name="Castoff Point" zone="262" index="566" posx="380.000000" posy="0.800000" posz="-145.000000" menuid="18" landx="1130102785" landy="3196227421" landz="1125515264" landh="48897" />
+	<entry type="scalablearea" name="Scalable Area" zone="265" index="822" posx="221.397003" posy="-16.520000" posz="-389.980988" menuid="40" landx="1129794765" landy="3216141976" landz="3284328711" landh="32513"/>
+	<entry type="scalablearea" name="Scalable Area" zone="265" index="823" posx="218.755005" posy="-1.785000" posz="-389.756012" menuid="41" landx="1130299327" landy="3246602584" landz="3284349977" landh="3073"/>
+	<entry type="scalablearea" name="Scalable Area" zone="265" index="825" posx="181.160995" posy="-1.785000" posz="-450.298004" menuid="43" landx="1127286899" landy="3246606779" landz="3286282863" landh="33537"/>
+	<entry type="scalablearea" name="Scalable Area" zone="265" index="824" posx="178.712997" posy="-16.523001" posz="-449.997009" menuid="42" landx="1127736083" landy="3216561407" landz="3286300361" landh="1"/>
+	<entry type="scalablearea" name="Scalable Area" zone="265" index="833" posx="-179.098999" posy="-1.785000" posz="69.751999" menuid="51" landx="3275189388" landy="3246593672" landz="1116497249" landh="33537"/>
+	<entry type="scalablearea" name="Scalable Area" zone="265" index="832" posx="-181.296997" posy="-16.520000" posz="69.931000" menuid="50" landx="3274678273" landy="3217207329" landz="1116491744" landh="1"/>
+	<entry type="scalablearea" name="Scalable Area" zone="265" index="835" posx="-219.020996" posy="-17.785000" posz="109.810997" menuid="53" landx="3277783958" landy="3254884238" landz="1121751401" landh="33537"/>
+	<entry type="scalablearea" name="Scalable Area" zone="265" index="834" posx="-221.244995" posy="-32.527000" posz="109.986000" menuid="52" landx="3277364593" landy="3247182447" landz="1121731478" landh="63745"/>
+	<entry type="scalablearea" name="Scalable Area" zone="265" index="837" posx="-259.100006" posy="-33.785000" posz="149.761993" menuid="55" landx="3280168387" landy="3259078804" landz="1125528634" landh="33537"/>
+	<entry type="scalablearea" name="Scalable Area" zone="265" index="836" posx="-261.312988" posy="-48.520000" posz="149.955002" menuid="54" landx="3279945958" landy="3255154770" landz="1125522080" landh="1"/>
+	<entry type="scalablearea" name="Scalable Area" zone="265" index="830" posx="-130.018997" posy="-48.522999" posz="301.253998" menuid="48" landx="3271666434" landy="3255190160" landz="1133780337" landh="14337"/>
+	<entry type="scalablearea" name="Scalable Area" zone="265" index="831" posx="-130.244003" posy="-33.785000" posz="299.032990" menuid="49" landx="3271669842" landy="3259072250" landz="1134039401" landh="49409"/>
+	<entry type="scalablearea" name="Scalable Area" zone="265" index="826" posx="-90.044998" posy="-16.520000" posz="181.326004" menuid="44" landx="3266566292" landy="3217173775" landz="1127191020" landh="16129"/>
+	<entry type="scalablearea" name="Scalable Area" zone="265" index="827" posx="-90.281998" posy="-1.785000" posz="178.919998" menuid="45" landx="3266534835" landy="3246595769" landz="1127708623" landh="50945"/>
+	<entry type="scalablearea" name="Scalable Area" zone="265" index="829" posx="-50.261002" posy="-17.785000" posz="259.131012" menuid="47" landx="3259277771" landy="3254886073" landz="1132714918" landh="49153"/>
+	<entry type="scalablearea" name="Scalable Area" zone="265" index="828" posx="-50.019001" posy="-32.521000" posz="261.313995" menuid="46" landx="3259504788" landy="3247123202" landz="1132445631" landh="16129"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="426" posx="271.483002" posy="-59.917000" posz="92.095001" menuid="16" landx="1132815352" landy="3256888591" landz="1119620695" landh="41473"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="427" posx="269.002991" posy="-40.124001" posz="92.169998" menuid="17" landx="1133065143" landy="3262088217" landz="1119346230" landh="1"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="429" posx="227.806000" posy="-40.120998" posz="188.977005" menuid="19" landx="1130566517" landy="3262088742" landz="1128355267" landh="46337"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="428" posx="227.932007" posy="-59.916000" posz="191.475998" menuid="18" landx="1130457531" landy="3256891474" landz="1127974896" landh="23041"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="430" posx="271.526001" posy="-59.922001" posz="252.018005" menuid="20" landx="1132834522" landy="3256888329" landz="1132332385" landh="39937"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="431" posx="268.971985" posy="-40.115002" posz="252.125000" menuid="21" landx="1133036471" landy="3262090577" landz="1132182766" landh="63745"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="432" posx="268.032013" posy="-19.910999" posz="-111.428001" menuid="22" landx="1132798608" landy="3172437328" landz="3268892034" landh="40705"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="433" posx="268.171997" posy="-0.246000" posz="-109.392998" menuid="23" landx="1132850185" landy="3248427107" landz="3269710578" landh="17409"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="425" posx="331.833008" posy="-20.205000" posz="-130.764999" menuid="15" landx="1134961525" landy="3256817288" landz="3271192872" landh="47105"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="424" posx="331.885986" posy="-39.923000" posz="-128.500000" menuid="14" landx="1135003829" landy="3248495789" landz="3271933821" landh="7937"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="434" posx="108.007004" posy="20.086000" posz="-128.544006" menuid="24" landx="1121143096" landy="1109380039" landz="3271865336" landh="22273"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="435" posx="107.760002" posy="39.791000" posz="-130.673004" menuid="25" landx="1121495811" landy="1101047268" landz="3271297860" landh="50945"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="437" posx="-92.167000" posy="39.773998" posz="-90.588997" menuid="27" landx="3266855699" landy="1101059851" landz="3266027979" landh="47873"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="436" posx="-92.037003" posy="20.086000" posz="-88.537003" menuid="26" landx="3267139863" landy="1109379515" landz="3266969732" landh="22273"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="441" posx="-210.649002" posy="-0.235000" posz="-211.828995" menuid="31" landx="3276657394" landy="3248430253" landz="3277048579" landh="63745"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="440" posx="-208.557007" posy="-19.915001" posz="-211.927002" menuid="30" landx="3277098517" landy="3172974199" landz="3277182403" landh="23809"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="438" posx="-211.927002" posy="-19.912001" posz="-151.419998" menuid="28" landx="3277187187" landy="3177269167" landz="3272805712" landh="41473"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="439" posx="-211.908005" posy="-0.198000" posz="-149.264008" menuid="29" landx="3277061031" landy="3248422912" landz="3273277375" landh="16129"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="443" posx="-307.847992" posy="-20.215000" posz="50.631001" menuid="33" landx="3281649271" landy="3256850056" landz="1111020274" landh="16129"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="442" posx="-307.947998" posy="-39.912998" posz="48.549999" menuid="32" landx="3281570333" landy="3248518857" landz="1112774804" landh="57345"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="444" posx="-271.360992" posy="-39.905998" posz="228.085007" menuid="34" landx="3280302932" landy="3248517809" landz="1130456286" landh="7937"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="445" posx="-268.987000" posy="-20.115999" posz="228.022995" menuid="35" landx="3280530047" landy="3256844813" landz="1130658399" landh="32513"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="446" posx="-105.022003" posy="-18.100000" posz="177.664993" menuid="36" landx="3268751656" landy="0" landz="1127564313" landh="44545"/>
+	<entry type="scalablearea" name="Scalable Area" zone="266" index="447" posx="-106.697998" posy="-0.100000" posz="179.453003" menuid="37" landx="3268307321" landy="3247551546" landz="1127170180" landh="9473"/>
+	<entry type="scalablearea" name="Scalable Area" zone="270" index="816" posx="-180.235001" posy="30.023001" posz="458.821991" menuid="24" landx="3274961323" landy="1101070337" landz="1139250988" landh="49153"/>
+	<entry type="scalablearea" name="Scalable Area" zone="270" index="815" posx="-180.035004" posy="19.996000" posz="461.048004" menuid="23" landx="3274968007" landy="1106302731" landz="1139004998" landh="17409"/>
+	<entry type="scalablearea" name="Scalable Area" zone="270" index="814" posx="58.719002" posy="20.021999" posz="180.210007" menuid="22" landx="1115387593" landy="1092735730" landz="1127478854" landh="64513"/>
+	<entry type="scalablearea" name="Scalable Area" zone="270" index="813" posx="61.124001" posy="9.993000" posz="180.085007" menuid="21" landx="1113608946" landy="1101079249" landz="1127478133" landh="33537"/>
+	<entry type="scalablearea" name="Scalable Area" zone="270" index="811" posx="101.028999" posy="9.997000" posz="60.025002" menuid="19" landx="1119858721" landy="1101065618" landz="1114722272" landh="33537"/>
+	<entry type="scalablearea" name="Scalable Area" zone="270" index="812" posx="98.762001" posy="20.021999" posz="60.198002" menuid="20" landx="1120805979" landy="1092750410" landz="1114621871" landh="64513"/>
+	<entry type="scalablearea" name="Scalable Area" zone="270" index="809" posx="139.966995" posy="9.995000" posz="21.063999" menuid="17" landx="1124862264" landy="1101081871" landz="1099000972" landh="14337"/>
+	<entry type="scalablearea" name="Scalable Area" zone="270" index="810" posx="139.785004" posy="20.024000" posz="18.847000" menuid="18" landx="1124843127" landy="1092750410" landz="1102601258" landh="49409"/>
+	<entry type="scalablearea" name="Scalable Area" zone="270" index="818" posx="-221.139008" posy="30.021000" posz="-259.813995" menuid="26" landx="3277390152" landy="1101069288" landz="3280077751" landh="1"/>
+	<entry type="scalablearea" name="Scalable Area" zone="270" index="817" posx="-218.923996" posy="19.995001" posz="-259.993988" menuid="25" landx="3277850477" landy="1106303255" landz="3280066741" landh="32513"/>
+	<entry type="scalablearea" name="Scalable Area" zone="272" index="392" posx="-374.911987" posy="-30.198999" posz="184.714005" menuid="11" landx="3283991823" landy="3256917689" landz="1127820297" landh="31745"/>
+	<entry type="scalablearea" name="Scalable Area" zone="272" index="391" posx="-377.192993" posy="-40.120998" posz="184.938004" menuid="10" landx="3283761366" landy="3253872362" landz="1127810532" landh="1"/>
+	<entry type="scalablearea" name="Scalable Area" zone="272" index="394" posx="-465.082001" posy="-40.258999" posz="65.140999" menuid="13" landx="3286796174" landy="3259537556" landz="1114789381" landh="16129"/>
+	<entry type="scalablearea" name="Scalable Area" zone="272" index="393" posx="-465.226013" posy="-50.106998" posz="62.890999" menuid="12" landx="3286812558" landy="3256956486" landz="1116124218" landh="50177"/>
+	<entry type="scalablearea" name="Scalable Area" zone="268" index="414" posx="-259.733002" posy="-9.984000" posz="-298.816986" menuid="20" landx="3280067527" landy="3248467477" landz="3281469670" landh="14337"/>
+	<entry type="scalablearea" name="Scalable Area" zone="268" index="413" posx="-259.934998" posy="-20.014000" posz="-301.296997" menuid="19" landx="3280064349" landy="3239984497" landz="3281252123" landh="49409"/>
+	<entry type="scalablearea" name="Scalable Area" zone="268" index="411" posx="-220.000000" posy="-20.014000" posz="-341.272003" menuid="17" landx="3277596132" landy="3239955137" landz="3282582864" landh="47873"/>
+	<entry type="scalablearea" name="Scalable Area" zone="268" index="412" posx="-219.757996" posy="-9.978000" posz="-338.832001" menuid="18" landx="3277581649" landy="3248430777" landz="3282790155" landh="15873"/>
+	<entry type="scalablearea" name="Scalable Area" zone="269" index="393" posx="180.203995" posy="29.980000" posz="-341.463013" menuid="14" landx="1127476167" landy="1109430371" landz="3282556912" landh="49153"/>
+	<entry type="scalablearea" name="Scalable Area" zone="269" index="394" posx="180.289001" posy="40.014999" posz="-338.743988" menuid="15" landx="1127482131" landy="1106300110" landz="3282788746" landh="16129"/>
+	<entry type="scalablearea" name="Scalable Area" zone="269" index="392" posx="300.253998" posy="40.018002" posz="-258.713989" menuid="13" landx="1133903184" landy="1106300110" landz="3280165438" landh="16129"/>
+	<entry type="scalablearea" name="Scalable Area" zone="269" index="391" posx="300.101013" posy="29.988001" posz="-261.259003" menuid="12" landx="1133910000" landy="1109428798" landz="3279953757" landh="49153"/>
+	<entry type="scalablearea" name="Scalable Area" zone="273" index="455" posx="225.149002" posy="39.877998" posz="-14.945000" menuid="201" landx="1130184639" landy="1106210456" landz="3245099451" landh="33537"/>
+	<entry type="scalablearea" name="Scalable Area" zone="273" index="454" posx="222.802002" posy="29.603001" posz="-14.813000" menuid="200" landx="1130594370" landy="1109352252" landz="3245408781" landh="1"/>
+</entitydata>

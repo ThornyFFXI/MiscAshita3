@@ -1,0 +1,13 @@
+<entitydata>
+	<entry type="eschaentrance" name="Undulating Confluence" zone="25" index="383" posx="-48.977001" posy="-23.309162" posz="572.489014" menuid="14" />
+	<entry type="eschaentrance" name="Undulating Confluence" zone="126" index="514" posx="-204.531006" posy="-20.019001" posz="75.318001" menuid="65" />
+	<entry type="eschaentrance" name="Undulating Confluence" zone="288" index="570" posx="-344.372009" posy="1.619733" posz="-182.309006" menuid="4" />
+	<entry type="eschaentrance" name="Undulating Confluence" zone="289" index="737" posx="0.009000" posy="-34.105850" posz="-471.917999" menuid="1" />
+	<entry type="dimportal" name="Dimensional Portal" zone="102" index="611" posx="420.000000" posy="19.104002" posz="-140.000000" menuid="222" />
+	<entry type="dimportal" name="Dimensional Portal" zone="108" index="555" posx="220.000000" posy="19.104002" posz="140.000000" menuid="926" />
+	<entry type="dimportal" name="Dimensional Portal" zone="117" index="594" posx="260.000000" posy="35.150600" posz="340.000000" menuid="926" />
+	<entry type="dimportal" name="Dimensional Portal" zone="291" index="762" posx="-500.015991" posy="-19.746655" posz="-494.675995" menuid="14" />
+	<entry type="dimportal" name="Dimensional Portal" zone="33" index="526" posx="25.299000" posy="-1.000000" posz="579.000000" menuid="151" />
+	<entry type="dimportal" name="Dimensional Portal" zone="33" index="527" posx="-635.598999" posy="-0.998720" posz="163.800003" menuid="152" />
+	<entry type="dimportal" name="Dimensional Portal" zone="33" index="528" posx="654.200012" posy="-1.000000" posz="100.699997" menuid="153" />
+</entitydata>

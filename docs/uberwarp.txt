@@ -1,0 +1,66 @@
+Commands:
+/uw hp [Alias] - Warp to a home point.
+/uw hp CHECK - Check which home points you have unlocked. (Must be at a home point.)
+/uw wp [Alias] - Warp to a waypoint.
+/uw wp CHECK - Check which waypoints you have unlocked. (Must be at a waypoint.)
+/uw sg [Alias] - Warp to a survival guide.
+/uw sg CHECK - Check which survival guides you have unlocked. (Must be at a survival guide.)
+/uw aw [Zone Name] - Warp from horst or similar NPCs to travel to abyssea.
+/uw aw CHECK - Check which abyssea zones you have unlocked. (Must be at an abyssea NPC.)
+/uw uc [Zone Name] - Use unity warp.
+/uw uc CHECK - Check which unity warps you have available. (Must be at a unity NPC.)
+/uw pw [Zone Name] - Use a proto-waypoint warp.
+/uw pw CHECK - Check which proto-waypoint warps you have available. (Must be at a proto-waypoint.)
+/uw ep # - Warp to an eschan portal.
+/uw ep CHECK - Check which eschan portals you have unlocked. (Must be at an eschan portal or ethereal ingress.)
+/uw ab # - Use an abyssea conflux to warp to another abyssea conflux.  If you have not yet unlocked the conflux, it will unlock it first.
+/uw ab CHECK - Check which abyssea confluxes you have unlocked in the current zone. (Must be at an abyssea conflux.)
+/uw ev - Get elvorseal and warp to DI.
+/uw ev NOWARP - Get elvorseal and exit menu without warping to DI.
+
+/uw cw - Enter a crystal warp(the little blue/purple crystal formations in adoulin used to travel through gates to rakaznar).  Appropriate KI is needed even with the disclaimer txt.
+/uw ee - Enter or exit escha from a dimensional portal or undulating confluence, or exit altaieu to a crag via dimensional portal.
+/uw ea - Enter al'taieu from a dimensional portal.
+/uw sa - Use a scalable area.  You must have climbing KI even with the disclaimer txt.
+/uw cp - Use a castoff point.  You must have watercraft and watercrafting even with the disclaimer txt.
+/uw cu - Use a castoff point, going upstream.  This is only possible in certain castoff points in foret.  You must have watercraft and watercrafting even with the disclaimer txt.
+/uw ae - Enter abyssea from a cavernous maw.  This cannot bypass traverser stone sickness.
+
+/uw ad [Optional: Zone Name/Alias/CHECK] - Automatically detect which warp system is available, and trigger it using the specified command(if specified).
+NOTE: It is possible to be in range of 2 systems, such as at northern sandoria HP#1 spaced between the survival guide and home point.
+If you are in such a position, there is no guarantee /uw ad will trigger the system you want(/uw ad rabao could hit either the home point or the survival guide).
+To ensure you get the results you are aiming for, either use the more specific command or ensure you are more than 5.5 yalms away from all but one warp method.
+Castoff points will go downstream if possible in foret.  Dimensional portals will go to Reisenjima, not Al'taieu.
+
+If you prefer not to have multiple argument commands, aliases are still a thing!  Add them to your startup script:
+/alias /hp /uw hp
+/alias /sg /uw sg
+etc.
+
+Safety/Convenience Features:
+-Automatically coordinates a delay if multiple chars on same PC are using same NPC.  No need for special commands, multisend away.
+-Will force the NPC to appear if server fails to draw it and you're in range of where it should be.
+-Verifies you have the destination portal unlocked and enough currency to use it for all systems.
+-Completes all menus accurately to retail client, for both same zone and other zone warps.
+
+Typed commands:
+-You may skip spaces and punctuation when typing zone names or aliases.  Spelling must be correct.
+-Default aliases are zonename, zonename2, zonename3, etc.  Frontier stations are zonename, bivouacs are zonename#.  Adoulin waypoints are as listed in file.
+-You may change the text used to trigger Home Points, Waypoints, or Survival Guides by going into the xml files in ashita/resources/entities/, and changing the 'alias' field.
+-You may use multiple aliases for a single HP, WP, or SG by copying the line and adding a different alias for the copy.
+-Do not modify anything else in these files.  They will self update with entity index or menu id changes, and can be trusted to maintain themselves.
+-These files contain vital data for the plugin to function appropriately and create the proper results.  Be very careful not to make any accidental changes if modifying aliases.
+-Changes made while plugin is loaded may be overwritten when the plugin updates the files.  Ensure nobody has the plugin loaded prior to modifying aliases to avoid this.
+
+For some systems, you will have to unlock the system first for commands to work properly:
+-Talk to Anastase in Ru'lude gardens to unlock proto-waypoints.
+-Complete appropriate mission access to use escha entrances, abyssea entrances.
+-Complete appropriate quests to use scalable areas, castoff points.
+-Complete appropriate cutscenes to use abyssea warps.
+-Kill appropriate wildskeeper reive to use crystal warps.
+
+If you want to warp to points you do not have unlocked yet, you can bypass the safety checks.
+-Create a new text file in ashita/config named uberwarp.txt.
+-Type into it, exactly as listed: I acknowledge that using uberwarp for locations I have not yet unlocked may get me banned.
+-Save the file, reload the plugin.
+-The plugin will no longer check if you have a warp unlocked before sending the packets.
